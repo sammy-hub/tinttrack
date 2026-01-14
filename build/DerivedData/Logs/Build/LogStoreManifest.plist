@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>12</integer>
+	<key>logs</key>
+	<dict>
+		<key>65FE4D47-5FE1-4B28-BF11-8EE461457C88</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>65FE4D47-5FE1-4B28-BF11-8EE461457C88.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TintTrack project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TintTrack</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project TintTrack with scheme TintTrack</string>
+			<key>timeStartedRecording</key>
+			<real>790107402.77771604</real>
+			<key>timeStoppedRecording</key>
+			<real>790107404.76363599</real>
+			<key>title</key>
+			<string>Building project TintTrack with scheme TintTrack</string>
+			<key>uniqueIdentifier</key>
+			<string>65FE4D47-5FE1-4B28-BF11-8EE461457C88</string>
+		</dict>
+		<key>89814D70-5CDE-40D4-A472-C59CE7949543</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>89814D70-5CDE-40D4-A472-C59CE7949543.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TintTrack project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TintTrack</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing project TintTrack with scheme TintTrack</string>
+			<key>timeStartedRecording</key>
+			<real>790107658.70901704</real>
+			<key>timeStoppedRecording</key>
+			<real>790107662.00820303</real>
+			<key>title</key>
+			<string>Testing project TintTrack with scheme TintTrack</string>
+			<key>uniqueIdentifier</key>
+			<string>89814D70-5CDE-40D4-A472-C59CE7949543</string>
+		</dict>
+		<key>A1AF63A6-5FBA-4F44-9B35-333094F6B140</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A1AF63A6-5FBA-4F44-9B35-333094F6B140.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TintTrack project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TintTrack</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing project TintTrack with scheme TintTrack</string>
+			<key>timeStartedRecording</key>
+			<real>790107515.19634604</real>
+			<key>timeStoppedRecording</key>
+			<real>790107520.18881702</real>
+			<key>title</key>
+			<string>Testing project TintTrack with scheme TintTrack</string>
+			<key>uniqueIdentifier</key>
+			<string>A1AF63A6-5FBA-4F44-9B35-333094F6B140</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

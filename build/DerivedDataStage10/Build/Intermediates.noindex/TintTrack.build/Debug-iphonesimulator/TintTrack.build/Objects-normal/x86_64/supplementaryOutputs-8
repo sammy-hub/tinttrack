@@ -1,0 +1,51 @@
+{
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Features/Inventory/InventoryCategoryDetailView.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryCategoryDetailView.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryCategoryDetailView.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryCategoryDetailView.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryCategoryDetailView.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryCategoryDetailView.swiftdeps"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Features/Inventory/InventoryFieldEditorSection.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryFieldEditorSection.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryFieldEditorSection.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryFieldEditorSection.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryFieldEditorSection.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryFieldEditorSection.swiftdeps"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Features/Settings/InventoryCategoriesSettingsView.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryCategoriesSettingsView.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryCategoriesSettingsView.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryCategoriesSettingsView.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryCategoriesSettingsView.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryCategoriesSettingsView.swiftdeps"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Features/Settings/InventoryCategoryEditorView.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryCategoryEditorView.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryCategoryEditorView.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryCategoryEditorView.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryCategoryEditorView.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryCategoryEditorView.swiftdeps"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Models/InventoryCategory.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryCategory.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryCategory.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryCategory.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryCategory.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryCategory.swiftdeps"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Models/InventoryFieldDefinition.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryFieldDefinition.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryFieldDefinition.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryFieldDefinition.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryFieldDefinition.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryFieldDefinition.swiftdeps"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Models/InventoryFieldKeys.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryFieldKeys.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryFieldKeys.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryFieldKeys.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryFieldKeys.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryFieldKeys.swiftdeps"
+  }
+}

@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'TintTrackTests' in project 'TintTrack'
+➜ Explicit dependency on target 'TintTrack' in project 'TintTrack'
+Target 'TintTrack' in project 'TintTrack' (no dependencies)

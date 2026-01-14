@@ -1,0 +1,44 @@
+{
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Features/Settings/SettingsRootView.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/SettingsRootView.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/SettingsRootView.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/SettingsRootView.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/SettingsRootView.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/SettingsRootView.swiftdeps"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Features/Settings/SignInWithAppleRow.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/SignInWithAppleRow.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/SignInWithAppleRow.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/SignInWithAppleRow.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/SignInWithAppleRow.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/SignInWithAppleRow.swiftdeps"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Features/ShoppingList/ShoppingListRootView.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/ShoppingListRootView.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/ShoppingListRootView.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/ShoppingListRootView.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/ShoppingListRootView.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/ShoppingListRootView.swiftdeps"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Models/ShoppingListItem.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/ShoppingListItem.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/ShoppingListItem.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/ShoppingListItem.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/ShoppingListItem.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/ShoppingListItem.swiftdeps"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Resources/SampleData.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/SampleData.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/SampleData.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/SampleData.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/SampleData.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/SampleData.swiftdeps"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Services/SubscriptionService.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/SubscriptionService.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/SubscriptionService.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/SubscriptionService.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/SubscriptionService.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/SubscriptionService.swiftdeps"
+  }
+}

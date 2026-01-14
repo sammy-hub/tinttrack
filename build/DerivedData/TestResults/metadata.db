@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FormatVersion</key>
+	<integer>1</integer>
+	<key>Store</key>
+	<dict>
+		<key>TintTrackTests</key>
+		<dict>
+			<key>FormulaServiceTests</key>
+			<dict>
+				<key>testDeductInventoryBlocksNegativeWhenNotAllowed</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.0031210184097290039</real>
+				</dict>
+				<key>testDeductInventoryCreatesTransaction</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.00097000598907470703</real>
+				</dict>
+			</dict>
+			<key>InventoryServiceTests</key>
+			<dict>
+				<key>testCostForUsageFromUnitCost</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.072755098342895508</real>
+				</dict>
+				<key>testLowStockDetection</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.00050294399261474609</real>
+				</dict>
+			</dict>
+			<key>UnitsServiceTests</key>
+			<dict>
+				<key>testGramsDisplayInGrams</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.00051295757293701172</real>
+				</dict>
+				<key>testGramsRoundTripFromOunces</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.00042402744293212891</real>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Products/Debug-iphoneos/TintTrack.app/TintTrack'
+relocations:     []
+...

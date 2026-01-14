@@ -1,0 +1,117 @@
+name: TintTrack
+options:
+  bundleIdPrefix: com.yourcompany
+  deploymentTarget:
+    iOS: "18.0"
+  xcodeVersion: "16.0"
+  createIntermediateGroups: true
+
+configs:
+  Debug: debug
+  Release: release
+
+settings:
+  base:
+    SWIFT_VERSION: "6.0"
+    SWIFT_STRICT_CONCURRENCY: complete
+    IPHONEOS_DEPLOYMENT_TARGET: "18.0"
+    TARGETED_DEVICE_FAMILY: "1,2"
+
+targets:
+  TintTrack:
+    type: application
+    platform: iOS
+    sources:
+      - path: TintTrack
+        excludes:
+          - "Resources/Assets.xcassets"
+          - "Resources/Assets.xcassets/**"
+    resources:
+      - path: TintTrack/Resources
+        excludes:
+          - "**/.DS_Store"
+          - "Assets.xcassets"
+          - "Assets.xcassets/**"
+    info:
+      path: TintTrack/Info.plist
+      properties:
+        UILaunchScreen: {}
+        CFBundleName: $(PRODUCT_NAME)
+        CFBundleIdentifier: $(PRODUCT_BUNDLE_IDENTIFIER)
+        CFBundleShortVersionString: "1.0"
+        CFBundleVersion: "1"
+        UIRequiredDeviceCapabilities:
+          - armv7
+        UISupportedInterfaceOrientations:
+          - UIInterfaceOrientationPortrait
+          - UIInterfaceOrientationLandscapeLeft
+          - UIInterfaceOrientationLandscapeRight
+        UISupportedInterfaceOrientations~ipad:
+          - UIInterfaceOrientationPortrait
+          - UIInterfaceOrientationPortraitUpsideDown
+          - UIInterfaceOrientationLandscapeLeft
+          - UIInterfaceOrientationLandscapeRight
+    entitlements:
+      path: TintTrack/TintTrack.entitlements
+      properties:
+        com.apple.developer.icloud-services:
+          - CloudKit
+        com.apple.developer.icloud-container-identifiers:
+          - iCloud.com.yourcompany.tinttrack
+        com.apple.developer.ubiquity-container-identifiers:
+          - iCloud.com.yourcompany.tinttrack
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.yourcompany.tinttrack
+        PRODUCT_NAME: TintTrack
+        CODE_SIGN_STYLE: Automatic
+        DEVELOPMENT_TEAM: YOURTEAMID
+      configs:
+        Debug:
+          DEBUG_INFORMATION_FORMAT: dwarf-with-dsym
+          SWIFT_OPTIMIZATION_LEVEL: -Onone
+        Release:
+          SWIFT_OPTIMIZATION_LEVEL: -Osize
+
+  TintTrackTests:
+    type: bundle.unit-test
+    platform: iOS
+    sources:
+      - TintTrackTests
+    dependencies:
+      - target: TintTrack
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.yourcompany.tinttrack.tests
+        GENERATE_INFOPLIST_FILE: YES
+
+  TintTrackUITests:
+    type: bundle.ui-testing
+    platform: iOS
+    sources:
+      - TintTrackUITests
+    dependencies:
+      - target: TintTrack
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.yourcompany.tinttrack.uitests
+        TEST_TARGET_NAME: TintTrack
+        GENERATE_INFOPLIST_FILE: YES
+
+schemes:
+  TintTrack:
+    build:
+      targets:
+        TintTrack: all
+        TintTrackTests: [test]
+    run:
+      config: Debug
+    test:
+      config: Debug
+      gatherCoverageData: true
+      targets:
+        - TintTrackTests
+    profile:
+      config: Release
+    archive:
+      config: Release

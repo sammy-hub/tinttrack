@@ -1,0 +1,99 @@
+{
+  "" : {
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/TintTrack-primary.dia",
+    "emit-module-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/TintTrack-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/TintTrack-primary-emit-module.dia",
+    "pch" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/TintTrack-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/TintTrack-primary.swiftdeps"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/App/AppTab.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/AppTab.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/AppTab.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/AppTab.dia",
+    "index-unit-output-path" : "/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/AppTab.o",
+    "llvm-bc" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/AppTab.bc",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/AppTab.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/AppTab.swiftdeps",
+    "swiftmodule" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/AppTab~partial.swiftmodule"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/App/ContentView.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/App/TintTrackApp.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/TintTrackApp.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/TintTrackApp.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/TintTrackApp.dia",
+    "index-unit-output-path" : "/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/TintTrackApp.o",
+    "llvm-bc" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/TintTrackApp.bc",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/TintTrackApp.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/TintTrackApp.swiftdeps",
+    "swiftmodule" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/TintTrackApp~partial.swiftmodule"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Features/Clients/ClientsRootView.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ClientsRootView.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ClientsRootView.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ClientsRootView.dia",
+    "index-unit-output-path" : "/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ClientsRootView.o",
+    "llvm-bc" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ClientsRootView.bc",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ClientsRootView.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ClientsRootView.swiftdeps",
+    "swiftmodule" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ClientsRootView~partial.swiftmodule"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Features/Inventory/InventoryRootView.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryRootView.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryRootView.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryRootView.dia",
+    "index-unit-output-path" : "/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryRootView.o",
+    "llvm-bc" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryRootView.bc",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryRootView.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryRootView.swiftdeps",
+    "swiftmodule" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/InventoryRootView~partial.swiftmodule"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Features/Settings/SettingsRootView.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/SettingsRootView.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/SettingsRootView.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/SettingsRootView.dia",
+    "index-unit-output-path" : "/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/SettingsRootView.o",
+    "llvm-bc" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/SettingsRootView.bc",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/SettingsRootView.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/SettingsRootView.swiftdeps",
+    "swiftmodule" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/SettingsRootView~partial.swiftmodule"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Features/ShoppingList/ShoppingListRootView.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ShoppingListRootView.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ShoppingListRootView.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ShoppingListRootView.dia",
+    "index-unit-output-path" : "/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ShoppingListRootView.o",
+    "llvm-bc" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ShoppingListRootView.bc",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ShoppingListRootView.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ShoppingListRootView.swiftdeps",
+    "swiftmodule" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ShoppingListRootView~partial.swiftmodule"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Resources/SampleData.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/SampleData.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/SampleData.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/SampleData.dia",
+    "index-unit-output-path" : "/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/SampleData.o",
+    "llvm-bc" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/SampleData.bc",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/SampleData.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/SampleData.swiftdeps",
+    "swiftmodule" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/SampleData~partial.swiftmodule"
+  },
+  "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

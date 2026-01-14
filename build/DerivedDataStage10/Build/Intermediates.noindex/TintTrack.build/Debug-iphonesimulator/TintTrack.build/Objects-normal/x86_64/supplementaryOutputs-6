@@ -1,0 +1,51 @@
+{
+  "/Users/samviers/Desktop/tinttrack/TintTrack/App/ContentView.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ContentView.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/ContentView.swiftdeps"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Features/Clients/DraftFormula.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/DraftFormula.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/DraftFormula.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/DraftFormula.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/DraftFormula.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/DraftFormula.swiftdeps"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Features/Clients/DraftLineItem.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/DraftLineItem.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/DraftLineItem.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/DraftLineItem.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/DraftLineItem.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/DraftLineItem.swiftdeps"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Features/Clients/FormulaEditorView.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/FormulaEditorView.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/FormulaEditorView.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/FormulaEditorView.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/FormulaEditorView.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/FormulaEditorView.swiftdeps"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Models/Formula.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/Formula.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/Formula.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/Formula.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/Formula.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/Formula.swiftdeps"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Models/FormulaLineItem.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/FormulaLineItem.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/FormulaLineItem.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/FormulaLineItem.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/FormulaLineItem.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/FormulaLineItem.swiftdeps"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Services/FormulaService.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/FormulaService.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/FormulaService.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/FormulaService.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/FormulaService.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedDataStage10/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/FormulaService.swiftdeps"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "/Users/samviers/Desktop/tinttrack/TintTrack/App/AppTab.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/AppTab.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/AppTab.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/AppTab.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/AppTab.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/AppTab.swiftdeps"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Models/AppSettings.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/AppSettings.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/AppSettings.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/AppSettings.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/AppSettings.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/AppSettings.swiftdeps"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrack/Models/Client.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/Client.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/Client.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/Client.dia",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/Client.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/Client.swiftdeps"
+  }
+}

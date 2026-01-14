@@ -1,0 +1,264 @@
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project TintTrack.xcodeproj -scheme TintTrack -destination "generic/platform=iOS Simulator" -derivedDataPath build/DerivedData build
+
+ComputePackagePrebuildTargetDependencyGraph
+
+Prepare packages
+
+CreateBuildRequest
+
+SendProjectDescription
+
+CreateBuildOperation
+
+ComputeTargetDependencyGraph
+note: Building targets in dependency order
+note: Target dependency graph (1 target)
+    Target 'TintTrack' in project 'TintTrack' (no dependencies)
+
+GatherProvisioningInputs
+
+CreateBuildDescription
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -v -E -dM -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -x c -c /dev/null
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/usr/bin/actool --print-asset-tag-combinations --output-format xml1 /Users/samviers/Desktop/tinttrack/TintTrack/Resources/Assets.xcassets
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/usr/bin/actool --version --output-format xml1
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc --version
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld -version_details
+
+Build description signature: 215a25d4376e53e75f6893e1018fda2e
+Build description path: /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/XCBuildData/215a25d4376e53e75f6893e1018fda2e.xcbuilddata
+ClangStatCache /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang-stat-cache /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk /Users/samviers/Desktop/tinttrack/build/DerivedData/SDKStatCaches.noindex/iphonesimulator26.2-23C53-7d00a8b37fbd7999ea79df8ebc024bf0.sdkstatcache
+    cd /Users/samviers/Desktop/tinttrack/TintTrack.xcodeproj
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang-stat-cache /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -o /Users/samviers/Desktop/tinttrack/build/DerivedData/SDKStatCaches.noindex/iphonesimulator26.2-23C53-7d00a8b37fbd7999ea79df8ebc024bf0.sdkstatcache
+Failed to create FS event stream. Considering the cache up-to-date.
+
+ProcessProductPackaging /Users/samviers/Desktop/tinttrack/TintTrack/TintTrack.entitlements /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/TintTrack.app.xcent (in target 'TintTrack' from project 'TintTrack')
+    cd /Users/samviers/Desktop/tinttrack
+    
+    Entitlements:
+    
+    {
+}
+    
+    builtin-productPackagingUtility /Users/samviers/Desktop/tinttrack/TintTrack/TintTrack.entitlements -entitlements -format xml -o /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/TintTrack.app.xcent
+
+ProcessProductPackaging /Users/samviers/Desktop/tinttrack/TintTrack/TintTrack.entitlements /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/TintTrack.app-Simulated.xcent (in target 'TintTrack' from project 'TintTrack')
+    cd /Users/samviers/Desktop/tinttrack
+    
+    Entitlements:
+    
+    {
+    "application-identifier" = "YOURTEAMID.com.yourcompany.tinttrack";
+}
+    
+    builtin-productPackagingUtility /Users/samviers/Desktop/tinttrack/TintTrack/TintTrack.entitlements -entitlements -format xml -o /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/TintTrack.app-Simulated.xcent
+
+ProcessProductPackagingDER /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/TintTrack.app-Simulated.xcent /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/TintTrack.app-Simulated.xcent.der (in target 'TintTrack' from project 'TintTrack')
+    cd /Users/samviers/Desktop/tinttrack
+    /usr/bin/derq query -f xml -i /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/TintTrack.app-Simulated.xcent -o /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/TintTrack.app-Simulated.xcent.der --raw
+
+ProcessProductPackagingDER /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/TintTrack.app.xcent /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/TintTrack.app.xcent.der (in target 'TintTrack' from project 'TintTrack')
+    cd /Users/samviers/Desktop/tinttrack
+    /usr/bin/derq query -f xml -i /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/TintTrack.app.xcent -o /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/TintTrack.app.xcent.der --raw
+
+CompileAssetCatalogVariant thinned /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Products/Debug-iphonesimulator/TintTrack.app /Users/samviers/Desktop/tinttrack/TintTrack/Resources/Assets.xcassets (in target 'TintTrack' from project 'TintTrack')
+    cd /Users/samviers/Desktop/tinttrack
+    /Applications/Xcode.app/Contents/Developer/usr/bin/actool /Users/samviers/Desktop/tinttrack/TintTrack/Resources/Assets.xcassets --compile /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/assetcatalog_output/thinned --output-format human-readable-text --notices --warnings --export-dependency-info /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/assetcatalog_dependencies_thinned --output-partial-info-plist /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/assetcatalog_generated_info.plist_thinned --app-icon AppIcon --accent-color AccentColor --compress-pngs --enable-on-demand-resources YES --development-region en --target-device iphone --target-device ipad --minimum-deployment-target 18.0 --platform iphonesimulator
+2026-01-14 00:31:58.052 ibtoold[89164:1041860] CoreSimulatorService connection became invalid.  Simulator services will no longer be available.
+2026-01-14 00:31:58.053 ibtoold[89164:1041994] Logging connecton invalid: <OS_xpc_error: <dictionary: 0x1f6ef40d0> { count = 1, transaction: 0, voucher = 0x0, contents =
+	"XPCErrorDescription" => <string: 0x1f6ef4218> { string cache = 0x0, length = 18, contents = "Connection invalid" }
+}>
+2026-01-14 00:31:58.053 ibtoold[89164:1041860] Error opening log file (/Users/samviers/Library/Logs/CoreSimulator/CoreSimulator.com.apple.ibtool.log): Operation not permitted
+[-[SimServiceContext sendRequest:]:1743] ERROR : Unable to deliver request ({
+    "developer_dir" = "/Applications/Xcode.app/Contents/Developer";
+    request = "set_developer_dir";
+}) because we are not connected to CoreSimulatorService.
+[-[SimServiceContext initWithDeveloperDir:connectionType:error:]:450] WARN  : Unable to discover any Simulator runtimes. Developer Directory is /Applications/Xcode.app/Contents/Developer.
+[-[SimDiskImageManager init]:175] ERROR : Could not kickstart simdiskimaged; SimDiskImageManager services will not be available: Error Domain=NSPOSIXErrorDomain Code=53 "Software caused connection abort" UserInfo={NSLocalizedDescription=Error returned in reply from CoreSimulatorService: Connection invalid}
+[-[SimDiskImageManager _onQueue_checkConnection:]:239] ERROR : simdiskimaged returned error (invalid), marking disconnected.
+[-[SimDiskImageManager _onQueue_checkConnection:]:239] ERROR : simdiskimaged returned error (invalid), marking disconnected.
+[-[SimServiceContext initWithDeveloperDir:connectionType:error:]_block_invoke:486] ERROR : Could not get list of trusted mount directories: Error Domain=com.apple.CoreSimulator.SimError Code=410 "The service used to manage runtime disk images (simdiskimaged) crashed or is not responding" UserInfo={NSLocalizedDescription=The service used to manage runtime disk images (simdiskimaged) crashed or is not responding}
+[-[SimServiceContext sendRequest:reply:error:]:1763] ERROR : Unable to deliver request ({
+    request = "notification_subscription";
+    "set_path" = "/Users/samviers/Library/Developer/CoreSimulator/Devices";
+}) because we are not connected to CoreSimulatorService.
+2026-01-14 00:31:58.225 ibtoold[89164:1041861] Error Domain=NSPOSIXErrorDomain Code=61 "Connection refused" UserInfo={NSLocalizedDescription=CoreSimulatorService connection became invalid.  Simulator services will no longer be available.}
+2026-01-14 00:31:58.456 ibtoold[89164:1041996] CoreSimulatorService connection became invalid.  Simulator services will no longer be available.
+[-[SimServiceContext initWithDeveloperDir:connectionType:error:]:450] WARN  : Unable to discover any Simulator runtimes. Developer Directory is /Applications/Xcode.app/Contents/Developer.
+[-[SimServiceContext initWithDeveloperDir:connectionType:error:]_block_invoke:486] ERROR : Could not get list of trusted mount directories: Error Domain=com.apple.CoreSimulator.SimError Code=409 "Cannot talk to the service used to manage runtime disk images (simdiskimaged) because its launchd job is not registered or was unloaded" UserInfo={NSLocalizedDescription=Cannot talk to the service used to manage runtime disk images (simdiskimaged) because its launchd job is not registered or was unloaded}
+[-[SimDiskImageManager _onQueue_checkConnection:]:219] ERROR : simdiskimaged connection is currently unavailable because connection became invalid
+[-[SimServiceContext sendRequest:]:1743] ERROR : Unable to deliver request ({
+    path = "/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVSimulator.platform/Developer/Library/Xcode/PrivatePlugIns/IDEInterfaceBuilderAppleTVIntegration.framework/Resources";
+    request = "add_profiles";
+}) because we are not connected to CoreSimulatorService.
+[-[SimServiceContext sendRequest:]:1743] ERROR : Unable to deliver request ({
+    path = "/Applications/Xcode.app/Contents/PlugIns/IDEInterfaceBuilderiOSIntegration.ideplugin/Contents/Resources";
+    request = "add_profiles";
+}) because we are not connected to CoreSimulatorService.
+/* com.apple.actool.errors */
+/Users/samviers/Desktop/tinttrack/TintTrack/Resources/Assets.xcassets: error: No available simulator runtimes for platform iphonesimulator. SimServiceContext supportedRuntimes=[]
+/* com.apple.actool.document.notices */
+/Users/samviers/Desktop/tinttrack/TintTrack/Resources/Assets.xcassets:./AppIcon.appiconset/[][ipad][76x76][][][1x][][][][]: notice: 76x76@1x app icons only apply to iPad apps targeting releases of iOS prior to 10.0.
+/* com.apple.actool.compilation-results */
+/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/assetcatalog_generated_info.plist_thinned
+/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/assetcatalog_output/thinned/AppIcon60x60@2x.png
+/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/assetcatalog_output/thinned/AppIcon76x76@2x~ipad.png
+
+
+SwiftDriver TintTrack normal x86_64 com.apple.xcode.tools.swift.compiler (in target 'TintTrack' from project 'TintTrack')
+    cd /Users/samviers/Desktop/tinttrack
+    builtin-SwiftDriver -- /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name TintTrack -Onone -enforce-exclusivity\=checked @/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/TintTrack.SwiftFileList -DDEBUG -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -target x86_64-apple-ios18.0-simulator -g -module-cache-path /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -profile-coverage-mapping -profile-generate -enable-testing -index-store-path /Users/samviers/Desktop/tinttrack/build/DerivedData/Index.noindex/DataStore -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -swift-version 6 -I /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Products/Debug-iphonesimulator -F /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Products/Debug-iphonesimulator -c -j8 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/samviers/Desktop/tinttrack/build/DerivedData/SDKStatCaches.noindex/iphonesimulator26.2-23C53-7d00a8b37fbd7999ea79df8ebc024bf0.sdkstatcache -output-file-map /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/TintTrack-OutputFileMap.json -use-frontend-parseable-output -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex -sdk-module-cache-path /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex -serialize-diagnostics -emit-dependencies -emit-module -emit-module-path /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/TintTrack.swiftmodule -validate-clang-modules-once -clang-build-session-file /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -I/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/swift-overrides.hmap -emit-const-values -Xfrontend -const-gather-protocols-file -Xfrontend /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/TintTrack_const_extract_protocols.json -Xcc -iquote -Xcc /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/TintTrack-generated-files.hmap -Xcc -I/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/TintTrack-own-target-headers.hmap -Xcc -I/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/TintTrack-all-target-headers.hmap -Xcc -iquote -Xcc /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/TintTrack-project-headers.hmap -Xcc -I/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Products/Debug-iphonesimulator/include -Xcc -I/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/DerivedSources-normal/x86_64 -Xcc -I/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/DerivedSources/x86_64 -Xcc -I/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/DerivedSources -Xcc -DDEBUG\=1 -emit-objc-header -emit-objc-header-path /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/x86_64/TintTrack-Swift.h -working-directory /Users/samviers/Desktop/tinttrack -experimental-emit-module-separately -disable-cmo
+
+SwiftDriver TintTrack normal arm64 com.apple.xcode.tools.swift.compiler (in target 'TintTrack' from project 'TintTrack')
+    cd /Users/samviers/Desktop/tinttrack
+    builtin-SwiftDriver -- /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name TintTrack -Onone -enforce-exclusivity\=checked @/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/TintTrack.SwiftFileList -DDEBUG -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -target arm64-apple-ios18.0-simulator -g -module-cache-path /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -profile-coverage-mapping -profile-generate -enable-testing -index-store-path /Users/samviers/Desktop/tinttrack/build/DerivedData/Index.noindex/DataStore -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -swift-version 6 -I /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Products/Debug-iphonesimulator -F /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Products/Debug-iphonesimulator -c -j8 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/samviers/Desktop/tinttrack/build/DerivedData/SDKStatCaches.noindex/iphonesimulator26.2-23C53-7d00a8b37fbd7999ea79df8ebc024bf0.sdkstatcache -output-file-map /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/TintTrack-OutputFileMap.json -use-frontend-parseable-output -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex -sdk-module-cache-path /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex -serialize-diagnostics -emit-dependencies -emit-module -emit-module-path /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/TintTrack.swiftmodule -validate-clang-modules-once -clang-build-session-file /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -I/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/swift-overrides.hmap -emit-const-values -Xfrontend -const-gather-protocols-file -Xfrontend /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/TintTrack_const_extract_protocols.json -Xcc -iquote -Xcc /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/TintTrack-generated-files.hmap -Xcc -I/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/TintTrack-own-target-headers.hmap -Xcc -I/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/TintTrack-all-target-headers.hmap -Xcc -iquote -Xcc /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/TintTrack-project-headers.hmap -Xcc -I/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Products/Debug-iphonesimulator/include -Xcc -I/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/DerivedSources-normal/arm64 -Xcc -I/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/DerivedSources/arm64 -Xcc -I/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/DerivedSources -Xcc -DDEBUG\=1 -emit-objc-header -emit-objc-header-path /Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphonesimulator/TintTrack.build/Objects-normal/arm64/TintTrack-Swift.h -working-directory /Users/samviers/Desktop/tinttrack -experimental-emit-module-separately -disable-cmo
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_SwiftConcurrencyShims-744CLUU5FZ27TVDP8OIHN9GDN.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_Builtin_stdarg-6HVGII47OXAYQQG6987V1L2AO.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_AvailabilityInternal-41MDTG1QUWLJLRQLHSAMDJZER.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_Builtin_float-D9U0HWE0GK1OCGDFA04N6KVWN.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/ptrauth-8QJP4A8V5CNBI9K43H2B0JQRG.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_Builtin_stddef-52XU15HSS6F6GKSJY61HDVN23.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/SwiftShims-5CCZBHNYG2HKHBYCQX2LZPVG8.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_Builtin_stddef-1AEJC80PB1OKGYOQIXAEKDXIU.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_SwiftConcurrencyShims-8XBTHXP2VCC29M5J99KTCXIOJ.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/DeveloperToolsSupport-B59AC4R0SO7RJB2GLKEIDV14X.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/ptrcheck-2PUVRWSRIWR5R7CIEURJ92A15.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_Builtin_stdarg-7QEYTNW6S4DIX07I4J1TFMW31.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/ptrauth-6DNQGV3S12BBR58V95NJV5UGT.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_Builtin_float-D8FSMENGBCOL4LJIK956U9I63.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_Builtin_stdbool-772ZK4Z0CESBSVOI4XE0WYHPA.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/ptrcheck-1RCOM0777MWK6J50QIZ7MS15W.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_AvailabilityInternal-BV33ZPSEXPKI2UD5QT1POFW9B.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/SwiftShims-72H9TDO5V5ZWWSVX70ZOZK1WB.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/DeveloperToolsSupport-MLJD9G7AC7S6BEV5S9Y59AOG.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_Builtin_stdbool-6U690UZCLOLJ83OVIESB1BD0G.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_DarwinFoundation1-EZRTOPKS3KP8MDM5Q3EMUPMV4.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_DarwinFoundation1-1QVWVTFNG1WH7J27EA5188EAO.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_DarwinFoundation2-XMJ5LLEII7N0THLVVXSTBS34.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_Builtin_limits-CVQ5CIMA9VETHBDGI30LLBT39.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_DarwinFoundation2-14892912JLO59ZJ2CFAGYLDQR.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_Builtin_limits-BQVAH2S0RMP9ITIA5G656ZNUC.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/sys_types-6781UUMJK07YCDGQQCISVPWUZ.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_Builtin_tgmath-66Y1N3AHI7O2LAXGTR8WTD5MK.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_Builtin_stdint-3F7465DKL8JCWI6GN2J3ID3TK.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/sys_types-29O47XR14VYU469GSNTMKLKAG.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_Builtin_stdint-41UYX3015HUWDSWPF4JIN954H.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_Builtin_tgmath-3IXCM9SSH0QUF2NANAXKB3O2I.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_Builtin_stdatomic-9GX6VODBSP47M4R1CUII72BCO.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_DarwinFoundation3-6BNPNW0O1AAC3MYOU2JMYDJYF.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_Builtin_intrinsics-13CTRJL7NTF43GMNV3TLHMA7X.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_DarwinFoundation3-9ZWJHBROR7Y7HPIPBVYARJWZ9.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_Builtin_stdatomic-B586I4I7ORK5ZVE2UGMHVFL41.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_Builtin_intrinsics-E9B1BN502WKZWQFZ97QGC0NH5.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_Builtin_inttypes-D74OSSBE2HPCM9AZ6KBAB74VX.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/_Builtin_inttypes-BM8EFZK5XBRLV48Q7ZZ123BJG.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/Darwin-2UXKSURLEE0DJROCOMJXZQK7E.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/Darwin-1NZZUUMNO37PV7APUNB0UZP0X.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/simd-CQUPQSYUFQOU9Y4S6UB5JTOVI.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/simd-32CFG7J8G0VCMYJH8PIV0H1YA.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/MachO-DL9AARLD9NK5SQWSVMI7JMQH5.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/ObjectiveC-DPVB6XZ0I66Q656EAL9IFG7C0.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/MachO-2EME82JW7BG3G9W88EVRXVN2Q.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/ObjectiveC-762X6SJS4AVT929JYBGZ13O3O.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/os_object-7MPERL2C2X7106NNT6X2S3HRG.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/os_object-C3R4Z9YX57N3RON4L0UIVMVVA.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/os_workgroup-33AGUV7WKMBX9ELPGRKHV429V.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/os_workgroup-F9LMCU3JDLFXIN2R4LUE374C.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/Spatial-ALF0R940X5D0U3IM0PC52PWHM.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/Dispatch-CI5XMS7EB2KTTGOQO0BXI1QEP.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/Dispatch-BWF6840G701ZHHCUAFZGTRP38.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/CoreFoundation-ATCIA31AXS8N3L68ZPG20ATJL.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/XPC-85FDMYG4GQ8PABS4N35L2KIDB.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/XPC-6SEJFRGXPLE354KGRN3L0A595.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/CoreFoundation-8PPLBDFB1K2Y3SOUFDOT26PZC.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/os-DRPKJQWHX0WJSHAMVSZOV8K6N.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/os-9QOVOQYZQQ8YZWI9QK2PN942M.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/CFNetwork-4UD0748QWPAW3NKXQR6BTJLM9.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/CoreGraphics-DSUFQA4QCK5UL6S0Y660EUPDI.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/Security-1DN45G0BUTS5GENT9K2NXEY5E.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/Spatial-F52LRNJFX9PR8KEYSJJP86981.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/Security-CP7FP8GNVM3NRUX2ODI4VPG7K.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/CFNetwork-COHPWQ4ZCN9I8IJNY3HUV6L51.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/CoreGraphics-1BC0SA1F7696ZDKNBUKSO47CG.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/Foundation-ATIO7Q364T6HA60UETSVQAJT4.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/CoreText-DJ7MB0DHCZX9BQH0260W21N7O.pcm
+
+SwiftExplicitDependencyGeneratePcm x86_64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/ImageIO-11RK7S3RNLVXKI3TXE4S0ODQU.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/samviers/Desktop/tinttrack/build/DerivedData/ModuleCache.noindex/Foundation-EW8SBS5EO1TYQDXSSGVUDA7TQ.pcm
+

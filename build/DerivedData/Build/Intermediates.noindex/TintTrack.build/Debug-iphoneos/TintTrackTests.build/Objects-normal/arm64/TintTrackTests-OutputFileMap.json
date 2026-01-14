@@ -1,0 +1,39 @@
+{
+  "" : {
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/TintTrackTests-primary.dia",
+    "emit-module-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/TintTrackTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/TintTrackTests-primary-emit-module.dia",
+    "pch" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/TintTrackTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/TintTrackTests-primary.swiftdeps"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrackTests/FormulaServiceTests.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/FormulaServiceTests.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/FormulaServiceTests.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/FormulaServiceTests.dia",
+    "index-unit-output-path" : "/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/FormulaServiceTests.o",
+    "llvm-bc" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/FormulaServiceTests.bc",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/FormulaServiceTests.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/FormulaServiceTests.swiftdeps",
+    "swiftmodule" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/FormulaServiceTests~partial.swiftmodule"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrackTests/InventoryServiceTests.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/InventoryServiceTests.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/InventoryServiceTests.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/InventoryServiceTests.dia",
+    "index-unit-output-path" : "/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/InventoryServiceTests.o",
+    "llvm-bc" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/InventoryServiceTests.bc",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/InventoryServiceTests.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/InventoryServiceTests.swiftdeps",
+    "swiftmodule" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/InventoryServiceTests~partial.swiftmodule"
+  },
+  "/Users/samviers/Desktop/tinttrack/TintTrackTests/UnitsServiceTests.swift" : {
+    "const-values" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/UnitsServiceTests.swiftconstvalues",
+    "dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/UnitsServiceTests.d",
+    "diagnostics" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/UnitsServiceTests.dia",
+    "index-unit-output-path" : "/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/UnitsServiceTests.o",
+    "llvm-bc" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/UnitsServiceTests.bc",
+    "object" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/UnitsServiceTests.o",
+    "swift-dependencies" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/UnitsServiceTests.swiftdeps",
+    "swiftmodule" : "/Users/samviers/Desktop/tinttrack/build/DerivedData/Build/Intermediates.noindex/TintTrack.build/Debug-iphoneos/TintTrackTests.build/Objects-normal/arm64/UnitsServiceTests~partial.swiftmodule"
+  }
+}

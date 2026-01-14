@@ -1,0 +1,25 @@
+{
+  "configurationVersion" : 1,
+  "store" : {
+    "bundleId" : "com.yourcompany.tinttrack",
+    "products" : [
+      {
+        "id" : "com.yourcompany.shadey.monthly",
+        "displayName" : "TintTrack Monthly",
+        "type" : "autoRenewableSubscription",
+        "price" : 9.99,
+        "subscriptionGroupId" : "com.yourcompany.shadey.subscriptions",
+        "recurringPeriod" : {
+          "unit" : "month",
+          "value" : 1
+        }
+      }
+    ],
+    "subscriptionGroups" : [
+      {
+        "id" : "com.yourcompany.shadey.subscriptions",
+        "name" : "TintTrack"
+      }
+    ]
+  }
+}
